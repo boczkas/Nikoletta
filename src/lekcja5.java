@@ -25,5 +25,7 @@ public class lekcja5 {
             }
             System.out.println("i = " + i);
         }
+
+
     }
 }
