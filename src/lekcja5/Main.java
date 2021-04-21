@@ -1,4 +1,6 @@
-public class lekcja5 {
+package lekcja5;
+
+public class Main {
     public static void main(String[] args) {
         //    1. Instrukcje przerywające przepływ sterowania
 //    break;
