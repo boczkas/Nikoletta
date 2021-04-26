@@ -1,7 +1,10 @@
 package lekcja8;
 
+import java.io.FileWriter;
+import java.io.IOException;
+
 public class Main {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
         //        1. Operatory bitowe
 
         // 1    - 0000 0001
@@ -101,9 +104,9 @@ public class Main {
 //        System.out.println(text);
 
 //         Zapis
-//        FileWriter fileWriter = new FileWriter("src/lekcja5/test.txt");
-//        fileWriter.append("Cześć Nikoletta!");
-//        fileWriter.close();
+        FileWriter fileWriter = new FileWriter("src/lekcja5/test.txt");
+        fileWriter.append("Cześć Nikoletta!");
+        fileWriter.close();
 //
 //        String milo = "Bardzo miło z Panią pracować!";
 //        Files.write(Path.of("src/lekcja5/test.txt"), milo.getBytes(), StandardOpenOption.APPEND);

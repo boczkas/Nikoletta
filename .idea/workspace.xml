@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="666bc8eb-8e30-439d-a5a6-dd490d40e0c7" name="Default Changelist" comment="Lekcja 1">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lekcja2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lekcja2/Zadanie.java" afterDir="false" />
+    <list default="true" id="666bc8eb-8e30-439d-a5a6-dd490d40e0c7" name="Default Changelist" comment="Lekcja 8 zadanie">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lekcja10/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lekcja10/Samochod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lekcja10/silnik/Silnik.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lekcja10/silnik/SilnikZaplonowy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lekcja10/stacyjka/Stacyjka.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lekcja8/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lekcja8/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lekcja9/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lekcja9/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,10 +36,11 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/lekcja10" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\programy\Nikoletta\src\lekcja8" />
       <recent name="C:\programy\Nikoletta\src" />
       <recent name="C:\programy\Nikoletta\.idea" />
     </key>
@@ -42,7 +48,20 @@
       <recent name="lekcja1" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lekcja10.Main" />
+      <module name="Nikoletta" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lekcja10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="lekcja1.Main" />
       <module name="Nikoletta" />
@@ -50,6 +69,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lekcja5.Main" />
+      <module name="Nikoletta" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -88,7 +120,77 @@
       <option name="project" value="LOCAL" />
       <updated>1618821772711</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Lekcja 2">
+      <created>1618823691037</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1618823691037</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Lekcja 3">
+      <created>1618824451957</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1618824451957</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Lekcja 4">
+      <created>1618905439835</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1618905439835</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Lekcja 5">
+      <created>1618992096763</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1618992096763</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Lekcja 5">
+      <created>1618992465101</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1618992465101</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Lekcja 5 poprawka">
+      <created>1618992555962</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1618992555962</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Lekcja 6">
+      <created>1618994440099</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1618994440099</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Lekcja 7">
+      <created>1618996536499</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1618996536499</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Lekcja 8">
+      <created>1618999213287</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1618999213287</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Lekcja 8 zadanie">
+      <created>1619000644449</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1619000644449</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -101,9 +203,19 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lekcja 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lekcja 1" />
+    <MESSAGE value="Lekcja 2" />
+    <MESSAGE value="Lekcja 3" />
+    <MESSAGE value="Lekcja 4" />
+    <MESSAGE value="Lekcja 5" />
+    <MESSAGE value="Lekcja 5 poprawka" />
+    <MESSAGE value="Lekcja 6" />
+    <MESSAGE value="Lekcja 7" />
+    <MESSAGE value="Lekcja 8" />
+    <MESSAGE value="Lekcja 8 zadanie" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lekcja 8 zadanie" />
   </component>
 </project>
