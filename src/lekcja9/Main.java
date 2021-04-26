@@ -2,7 +2,7 @@ package lekcja9;
 
 public class Main {
     public static void main(String[] args) {
-        //        1silnik. Typ wyliczeniowy
+        //  Typ wyliczeniowy
 //        Stworzyć dni tygodnia
 //        DzienTygodnia dzisiaj = DzienTygodnia.PONIEDZIALEK;
 //
