@@ -1,16 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="666bc8eb-8e30-439d-a5a6-dd490d40e0c7" name="Default Changelist" comment="Lekcja 8 zadanie">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lekcja10/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lekcja10/Samochod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lekcja10/silnik/Silnik.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lekcja10/silnik/SilnikZaplonowy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lekcja10/stacyjka/Stacyjka.java" afterDir="false" />
+    <list default="true" id="666bc8eb-8e30-439d-a5a6-dd490d40e0c7" name="Default Changelist" comment="Lekcja 9">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lekcja8/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lekcja8/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lekcja9/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lekcja9/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,11 +32,13 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\programy\Nikoletta\src\lekcja8" />
+      <recent name="C:\programy\Nikoletta\src\lekcja10" />
       <recent name="C:\programy\Nikoletta\src" />
+      <recent name="C:\programy\Nikoletta\src\lekcja8" />
       <recent name="C:\programy\Nikoletta\.idea" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lekcja10.silnik" />
       <recent name="lekcja1" />
     </key>
   </component>
@@ -190,7 +184,21 @@
       <option name="project" value="LOCAL" />
       <updated>1619000644449</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Lekcja 10">
+      <created>1619470330520</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1619470330520</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Lekcja 9">
+      <created>1619470406405</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1619470406405</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -216,6 +224,8 @@
     <MESSAGE value="Lekcja 7" />
     <MESSAGE value="Lekcja 8" />
     <MESSAGE value="Lekcja 8 zadanie" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lekcja 8 zadanie" />
+    <MESSAGE value="Lekcja 10" />
+    <MESSAGE value="Lekcja 9" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lekcja 9" />
   </component>
 </project>
