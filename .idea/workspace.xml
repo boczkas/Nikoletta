@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="666bc8eb-8e30-439d-a5a6-dd490d40e0c7" name="Default Changelist" comment="Lekcja 9">
+    <list default="true" id="666bc8eb-8e30-439d-a5a6-dd490d40e0c7" name="Default Changelist" comment="Lekcja 10 zadanie">
+      <change afterPath="$PROJECT_DIR$/src/lekcja11/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,6 +39,8 @@
       <recent name="C:\programy\Nikoletta\.idea" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lekcja11" />
+      <recent name="lekcja10" />
       <recent name="lekcja10.silnik" />
       <recent name="lekcja1" />
     </key>
@@ -198,7 +201,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619470406405</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Lekcja 10 zadanie">
+      <created>1619511896491</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1619511896491</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -226,6 +236,7 @@
     <MESSAGE value="Lekcja 8 zadanie" />
     <MESSAGE value="Lekcja 10" />
     <MESSAGE value="Lekcja 9" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lekcja 9" />
+    <MESSAGE value="Lekcja 10 zadanie" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lekcja 10 zadanie" />
   </component>
 </project>
